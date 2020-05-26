@@ -93,4 +93,4 @@ def the_coolest_function_ever():
 <!-- Task lists -->
 * [x] completed task
 * [x] another completed task
-* [] incomplete task
+* [ ] incomplete task
